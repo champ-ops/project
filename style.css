@@ -18,6 +18,10 @@ p{
     margin-right: 15px;
     color: white;
 }
+li .items:hover {
+text-decoration: none;
+    color: white;
+}
 
 ul li{
     list-style: none;
