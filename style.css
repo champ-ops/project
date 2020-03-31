@@ -21,12 +21,7 @@ ul li{
 .row{
     padding: 50px;
 }
-.border{
-    margin-top: 50px;
-    flex: 1 1 auto;
-    min-height: 1px;
-    padding: 1.25rem;
-}
+
 .picture{
     background: #ccc;
     height: 400px;
