@@ -12,14 +12,16 @@ p{
 }
 .list{
     display: flex;
+    margin-bottom: 0;
 }
 .items{
     margin-right: 15px;
-    text-decoration: none;
     color: white;
 }
+
 ul li{
     list-style: none;
+    margin-bottom:0;
 }
 .row{
     padding: 50px;
