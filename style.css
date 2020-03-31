@@ -16,7 +16,7 @@ p{
 }
 .items{
     margin-right: 15px;
-    color: white;
+    color: #999;
 }
 li .items:hover {
 text-decoration: none;
