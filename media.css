@@ -1,0 +1,33 @@
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 992px) {
+    .burger{
+        display: flex;
+    }
+    .top-menu{
+        display: none;
+    }
+    .top-menu.show{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: cadetblue;
+        flex-direction: column;
+        z-index: 2;
+    }
+    .top-menu.show a{
+        margin:10px 0 0;
+    }
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 540px) {
+
+}
