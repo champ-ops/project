@@ -10,7 +10,7 @@ $('.burger').on('click', () => {
     $('.top-menu').toggleClass('show')
 });
 
-$('.top-menu a').on('click', () => {
+$('.top-menu li a').on('click', () => {
     $('.burger').removeClass('show-menu');
     $('.top-menu').removeClass('show')
 });
